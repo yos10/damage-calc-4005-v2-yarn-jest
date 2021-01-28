@@ -1,4 +1,5 @@
 # damage-calc
+[![CircleCI](https://circleci.com/gh/yos10/damage-calc-4005-v2-yarn-jest.svg?style=shield)](<LINK>)
 このモジュールでは、ダメージ計算を行うことができます。  
 ダメージ計算には
 
